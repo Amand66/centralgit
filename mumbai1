@@ -1,0 +1,4 @@
+This is the file made in first dir mumbaigit
+File made with command cat 
+This file is in working space now and we have to add this to stagging area by command git add. and then save in local repo by command git commit -m "Msg to disply"
+Thanks
